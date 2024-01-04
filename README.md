@@ -99,7 +99,7 @@ if _name_ == '_main_':
 Insert image here
 
 ![image](https://github.com/vigneshvickyu/mobilerobot-openloopcontrol/assets/151948835/433df7a9-3315-4336-869a-f1a19e06a2a7)
-![WhatsApp Image 2024-01-04 at 16 37 06_423db6b7](https://github.com/vigneshvickyu/mobilerobot-openloopcontrol/assets/151948835/a5230b95-ed26-48d4-92af-054435f16dcf)
+![image](https://github.com/vigneshvickyu/mobilerobot-openloopcontrol/assets/151948835/59a14126-53b1-435a-8504-fd71dc45d53c)
 ![image](https://github.com/vigneshvickyu/mobilerobot-openloopcontrol/assets/151948835/f3f8204e-2c1d-4e37-be5a-e2565954cc0c)
 ![image](https://github.com/vigneshvickyu/mobilerobot-openloopcontrol/assets/151948835/e4806d7a-f7fb-4e79-9c27-710e259181fc)
 
