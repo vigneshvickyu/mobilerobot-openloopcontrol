@@ -100,7 +100,7 @@ Insert image here
 
 ![IMG_20240102_141259](https://github.com/vigneshvickyu/mobilerobot-openloopcontrol/assets/151948835/297f0b19-eb27-4711-8e28-6af9e1f99ef2)
 ![WhatsApp Image 2024-01-04 at 16 37 06_423db6b7](https://github.com/vigneshvickyu/mobilerobot-openloopcontrol/assets/151948835/a5230b95-ed26-48d4-92af-054435f16dcf)
-![WhatsApp Image 2024-01-04 at 16 39 28_ce76219d](https://github.com/vigneshvickyu/mobilerobot-openloopcontrol/assets/151948835/dbf9748a-4e4b-47ec-b978-ea7e41fdff07)
+![image](https://github.com/vigneshvickyu/mobilerobot-openloopcontrol/assets/151948835/f3f8204e-2c1d-4e37-be5a-e2565954cc0c)
 ![image](https://github.com/vigneshvickyu/mobilerobot-openloopcontrol/assets/151948835/e4806d7a-f7fb-4e79-9c27-710e259181fc)
 
 
